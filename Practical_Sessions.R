@@ -269,4 +269,4 @@ data_genderage %>%
     theme_void() +
     theme(legend.position = "right")
 
-ggsave("gender_pie_chart.png", width = 6, height = 6, dpi = 300)
+ggsave("sex_pie.png", width = 6, height = 6, dpi = 300)
